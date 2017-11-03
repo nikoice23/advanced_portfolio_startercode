@@ -1,0 +1,9 @@
+ <div class= "container"> 
+        <div class= "row">
+            <div style="background-color:yellow " class="col">
+        <p>Nikolas</p>
+        <div style="background-color:lightblue" class="col">
+        <p>Figueroa</p>
+        </div>
+    </div>
+</div> 
