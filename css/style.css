@@ -24,3 +24,9 @@
 /* Button CSS */
 
 
+.carousel-inner img{ 
+    margin:0 auto;
+    width:300px;
+    height:300px
+}
+
